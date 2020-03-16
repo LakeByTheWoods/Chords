@@ -1,0 +1,23 @@
+{
+  "slug": "LakeByTheWoods-Chords",
+  "name": "Lake By The Woods - Chords",
+  "version": "1.0.0",
+  "license": "mit",
+  "brand": "Lake By The Woods",
+  "author": "Lachlan Easton",
+  "authorEmail": "lachlan@lakebythewoods.xyz",
+  "authorUrl": "lakebythewoods.xyz",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "Chords",
+      "name": "Chords",
+      "description": "Polyphonic chord construction",
+      "tags": []
+    }
+  ]
+}
